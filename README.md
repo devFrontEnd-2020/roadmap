@@ -4,6 +4,9 @@
 Eu sou simplesmente complexa, mas tentando ser simples e direta, amo estudar, apaixonada por qualquer coisa artística, filosófica e poética. 
 Para informações profissionais --> https://www.linkedin.com/in/marina-micas-jardim-703b3316/
 
+<strong>Lara</strong>
+Amo o processo de transformar ideias em realidade, seja no mundo físico ou virtual.
+Contato --> https://www.linkedin.com/in/deoliveiralara
 
 
 <conteudoNativoGitHub sugestao="manter no readme, rs">
