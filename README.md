@@ -6,7 +6,7 @@ Para informações profissionais --> https://www.linkedin.com/in/marina-micas-ja
 
 
 <strong>Igor Viana</strong>
-Sou novo no assunto e gostaria de me aprofundar e obter cada vez mais conhecimento juntamente com o grupo, apesar de ser tímido, me esforçarei ao máximo para conseguir ter um bom diálogo com os colegas de estudo.
+Sou novo no assunto e gostaria de me aprofundar e obter cada vez mais conhecimento juntamente com o grupo, apesar de ser tímido, me esforçarei ao máximo para conseguir ter um bom diálogo com os colegas de estudo.888888888888
 Contato -----> https://www.linkedin.com/in/igor-viana-977961172/
 
 
