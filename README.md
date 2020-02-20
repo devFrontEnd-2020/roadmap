@@ -2,7 +2,7 @@
 
 <strong>Igor Viana</strong>
 Sou novo no assunto e gostaria de me aprofundar e obter cada vez mais conhecimento juntamente com o grupo, apesar de ser tímido, me esforçarei ao máximo para conseguir ter um bom diálogo com os colegas de estudo.
-Contato --> https://www.linkedin.com/in/igor-viana-977961172/
+Contato -----> https://www.linkedin.com/in/igor-viana-977961172/
 
 
 
