@@ -1,5 +1,9 @@
 ## Welcome to GitHubianas e GitHubianos 
 
+<strong>Marina Micas Jardim</strong>
+Eu sou simplesmente complexa, mas tentando ser simples e direta, amo estudar, apaixonada por qualquer coisa artística, filosófica e poética. 
+Para informações profissionais --> https://www.linkedin.com/in/marina-micas-jardim-703b3316/
+
 <strong>Igor Viana</strong>
 Sou novo no assunto e gostaria de me aprofundar e obter cada vez mais conhecimento juntamente com o grupo, apesar de ser tímido, me esforçarei ao máximo para conseguir ter um bom diálogo com os colegas de estudo.
 Contato -----> https://www.linkedin.com/in/igor-viana-977961172/
