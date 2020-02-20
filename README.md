@@ -1,7 +1,7 @@
 ## Welcome to GitHubianas e GitHubianos 
 
 <strong>Marina Micas Jardim</strong>
-Eu sou simplesmente simples 333 666666, mas tentando ser simples e direta, amo estudar, apaixonada por qualquer coisa artística, filosófica e poética. 
+Eu sou simplesmente simples 333 666666 999999999, mas tentando ser simples e direta, amo estudar, apaixonada por qualquer coisa artística, filosófica e poética. 
 Para informações profissionais --> https://www.linkedin.com/in/marina-micas-jardim-703b3316/
 
 
