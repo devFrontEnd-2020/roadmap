@@ -7,7 +7,7 @@ Para informações profissionais --> https://www.linkedin.com/in/marina-micas-ja
 
 <strong>Igor Viana</strong>
 Olá, estou inciando esta interação com o grupo para absorver e compartilhar muitas informações e conhecimentos, me sinto honrado em participar, no momento meu conhecimento no mundo da programação é pouco porém estou correndo atraz para mudar, e durante esta capitação de conhecimentos terei o prazer em ajudar. ;)
-Contato -----> https://www.linkedin.com/in/igor-viana-977961172/
+Contato -----> https://www.linkedin.com/in/igorvianaf
 
 
 <strong>Lara</strong>
