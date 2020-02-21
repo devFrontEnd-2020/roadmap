@@ -14,6 +14,16 @@ Contato -----> https://www.linkedin.com/in/igorvianaf
 Amo o processo de transformar ideias em realidade, seja no mundo físico ou virtual.
 Contato --> https://www.linkedin.com/in/deoliveiralara
 
+**Rui Leite**
+Procurando aprender o que não sei, e procurando ensinar o que acho que sei.
+
+[Meu github](https://github.com/ruihloliveira/)
+
+[Meu pagehub](https://ruihloliveira.github.io/)
+
+[LinkedIn](https://www.linkedin.com/in/ruihenriqueleite/)
+
+[Site pessoal hospedado](https://www.ruileite.com.br)
 
 
 <conteudoNativoGitHub sugestao="manter no readme, rs">
