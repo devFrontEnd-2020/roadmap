@@ -2,17 +2,17 @@
 
 <strong>Marina Micas Jardim</strong>
 Eu sou simplesmente Marina, mas tentando ser simples e direta, amo estudar, apaixonada por qualquer coisa artística, filosófica e poética. 
-Para informações profissionais --> https://www.linkedin.com/in/marina-micas-jardim-703b3316/
+Para informações profissionais --> (https://www.linkedin.com/in/marina-micas-jardim-703b3316/)
 
 
 <strong>Igor Viana</strong>
 Olá, estou inciando esta interação com o grupo para absorver e compartilhar muitas informações e conhecimentos, me sinto honrado em participar, no momento meu conhecimento no mundo da programação é pouco porém estou correndo atraz para mudar, e durante esta capitação de conhecimentos terei o prazer em ajudar. ;)
-Contato -----> https://www.linkedin.com/in/igorvianaf
+Contato -----> (https://www.linkedin.com/in/igorvianaf)
 
 
 <strong>Lara</strong>
 Amo o processo de transformar ideias em realidade, seja no mundo físico ou virtual.
-Contato --> https://www.linkedin.com/in/deoliveiralara
+Contato --> (https://www.linkedin.com/in/deoliveiralara)
 
 **Rui Leite**
 Procurando aprender o que não sei, e procurando ensinar o que acho que sei.
