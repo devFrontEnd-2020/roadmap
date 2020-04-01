@@ -4,19 +4,19 @@
 Eu sou simplesmente complexa, mas bem comunnicativa do tipo falante pacas! amo estudar, apaixonada por qualquer coisa artística, filosófica e poética. 
 
 [LinkedIn](https://www.linkedin.com/in/marina-micas-jardim-703b3316/)
-
+<hr>
 
 **Igor Viana**
 Olá, estou inciando esta interação com o grupo para absorver e compartilhar muitas informações e conhecimentos, me sinto honrado em participar, no momento meu conhecimento no mundo da programação é pouco porém estou correndo atraz para mudar, e durante esta capitação de conhecimentos terei o prazer em ajudar. ;)
 
 [LinkedIn](https://www.linkedin.com/in/igorvianaf)
-
+<hr>
 
 **Lara**
 Amo o processo de transformar ideias em realidade, seja no mundo físico ou virtual.
 
 [LinkedIn](https://www.linkedin.com/in/deoliveiralara)
-
+<hr>
 
 **Rui Leite**
 Procurando aprender o que não sei, e procurando ensinar o que acho que sei.
@@ -28,7 +28,7 @@ Procurando aprender o que não sei, e procurando ensinar o que acho que sei.
 [LinkedIn](https://www.linkedin.com/in/ruihenriqueleite/)
 
 [Site pessoal hospedado](https://www.ruileite.com.br)
-
+<hr>
 
 <conteudoNativoGitHub sugestao="manter no readme, rs">
 
