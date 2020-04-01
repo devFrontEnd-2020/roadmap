@@ -4,51 +4,65 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>devFrontEnd</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.css" integrity="sha256-XF2msWsEjJwE8ORQ0exG5nFk8jDTntTMbUZKtvPRkgU=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/devFrontEnd.css" />
   </head>
   <body>
     <header>
       <h1>#devFrontEnd</h1>
       <h2>Grupo de Estudos</h2>
+      <img src="img/logoGrupoEstudosFrontEnd-redusido-Branco.png" alt="Logo do grupo de estudos devFrontEnd">
     </header>
 
-    <section>
-      <h1>Conteúdo</h1>
-      <ul>
-        <li>HTML5
-          <ul>
-            <li><a href="https://www.tutorialrepublic.com/html-reference/html5-tags.php">Principais tags do HTML5</a></li>
-          </ul>
-        </li>
-        <li>CSS3</li>
-        <li>JavaScript</li>
-      </ul>
-
-      <a href="https://hackernoon.com/hn-images/1*YTP0ii6kEqZtxUN0bOKADA.png">
-        veja nosso roteiro!
-      </a>  
-    </section>
-
-    <section>
-      <h1>Equipe</h1> 
-    </section>
-    
-    <section>
-      <h1>Contato</h1>
-      <p>Esse é o seu primeiro contato nessa organização?</p>
-      <p><a href="comecando.html">Então visualize o que precisa saber para começar esse cruzeiro!</a></p> 
-      <p>ATENÇÃO: entre de Frente/Front e vá até o Fim/End nesses estudos ;P <br>
-      O ministério dos navegantes virtuais informa: continue a estudar, continue a estudar... <br>
-      o que estou procurando mesmo? você já encontrou, <a href="comecando.html">comece!</a> e bons estudos.</p>
-    </section>
-
-    <section>
-      <h1>Meme da Semana</h1>
-      <p>
-        &lt;corona&gt;
-          Adeus mundo
-      &lt;/world&gt;
-      </p> 
-    </section>
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child box">
+          <section>
+            <p class="title">Conteúdo</p>
+            <ul>
+              <li>HTML5
+                <ul>
+                  <li><a href="https://www.tutorialrepublic.com/html-reference/html5-tags.php">Principais tags do HTML5</a></li>
+                </ul>
+              </li>
+              <li>CSS3</li>
+              <li>JavaScript</li>
+            </ul>
+      
+            <a href="https://hackernoon.com/hn-images/1*YTP0ii6kEqZtxUN0bOKADA.png">
+              veja nosso roteiro!
+            </a>  
+          </section>
+        </div>
+      </div>
+      <div class="tile is-4 is-vertical is-parent">
+        <div class="tile is-child box">
+          <section>
+            <p class="title">Equipe</p> 
+          </section>
+        </div>
+        <div class="tile is-child box">
+          <section>
+            <p class="title">Contato</p>
+            <p>Esse é o seu primeiro contato nessa organização?</p>
+            <p><a href="comecando.html">Então visualize o que precisa saber para começar esse cruzeiro!</a></p> 
+            <p>ATENÇÃO: entre de Frente/Front e vá até o Fim/End nesses estudos ;P <br>
+            O ministério dos navegantes virtuais informa: continue a estudar, continue a estudar... <br>
+            o que estou procurando mesmo? você já encontrou, <a href="comecando.html">comece!</a> e bons estudos.</p>
+          </section>
+        </div>
+        <div class="tile is-child box">
+          <section>
+            <p class="title">Meme da Semana</p>
+              <p>
+                &lt;corona&gt;
+                  Adeus mundo
+              &lt;/world&gt;
+            </p>
+          </section>
+        </div>
+      </div>
+    </div>
 
     <footer>#devFrontEnd &copy; 2020</footer>
 
