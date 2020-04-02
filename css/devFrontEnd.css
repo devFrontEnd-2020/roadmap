@@ -18,12 +18,38 @@ h2 {
     margin-bottom: 20px;
 }
 
-img {
+h3 {
+    color: orange;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+
+h4 {
+    color: orange;
+    font-variant: all-petite-caps;
+    font-size: x-large;
+}
+
+img.logo-grupo-estudos {
     height: auto;
     max-width: 7%;
     position: absolute;
     top: 15px;
     right: 22px;
+}
+
+.color-efeito {
+    color: orange;
+}
+
+ol {
+    margin-left: 35px;
+}
+
+ul {
+    list-style: unset;
+    list-style-type: circle;
+    margin-left: 40px;
 }
 
 footer {
