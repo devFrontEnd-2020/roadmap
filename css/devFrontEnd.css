@@ -12,7 +12,7 @@ h1, h2, footer {
 h1 {
     font-weight: 900;
     font-size:xx-large;
-    margin-top: 115px;
+    margin-top: 75px;
 }
 
 h2 {
@@ -33,10 +33,12 @@ h4 {
 
 img.logo-grupo-estudos {
     height: auto;
-    max-width: 180px;
-    position: absolute;
+    max-width: 110px;
+    position: fixed;
     top: 3px;
     right: 12px;
+    background-color: black;
+    z-index: 3;
 }
 
 .color-efeito {
@@ -51,6 +53,18 @@ ul {
     list-style: unset;
     list-style-type: circle;
     margin-left: 40px;
+}
+
+.bd-notification.is-primary {
+    padding: 1.25rem 1.5rem;
+    height: 100%;
+}
+
+@media screen and (max-width: 888px), print {
+    .columns.is-mobile>.column.is-one-third {
+        flex: none;
+        width: 100%;
+    }
 }
 
 footer {
