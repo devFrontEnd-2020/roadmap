@@ -55,7 +55,7 @@ ul {
     margin-left: 40px;
 }
 
-.bd-notification.is-primary {
+.bd-notification.is-danger, .bd-notification.is-primary {
     padding: 1.25rem 1.5rem;
     height: 100%;
 }
