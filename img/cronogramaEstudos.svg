@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="cronogramaEstudos.svg"
+   inkscape:export-filename="C:\Users\marin\bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-2">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix343-5" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix474" />
+      <feColorMatrix
+         id="feColorMatrix476"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix478" />
+      <feColorMatrix
+         id="feColorMatrix480"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix482" />
+      <feColorMatrix
+         id="feColorMatrix484"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix486" />
+      <feColorMatrix
+         id="feColorMatrix488"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-0">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-0-1">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343-0-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-0-6">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343-0-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-0-2">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343-0-03" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-0-0">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343-0-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-2-3">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix343-5-7" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix474-7" />
+      <feColorMatrix
+         id="feColorMatrix476-4"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix478-8" />
+      <feColorMatrix
+         id="feColorMatrix480-5"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix482-0" />
+      <feColorMatrix
+         id="feColorMatrix484-9"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix486-0" />
+      <feColorMatrix
+         id="feColorMatrix488-0"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-0-6-5">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343-0-6-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-2-3-0">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix343-5-7-2" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix474-7-6" />
+      <feColorMatrix
+         id="feColorMatrix476-4-5"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix478-8-8" />
+      <feColorMatrix
+         id="feColorMatrix480-5-6"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix482-0-5" />
+      <feColorMatrix
+         id="feColorMatrix484-9-1"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix486-0-7" />
+      <feColorMatrix
+         id="feColorMatrix488-0-8"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-0-6-5-2">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix343-0-6-9-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter345-2-3-9">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix343-5-7-1" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix474-7-0" />
+      <feColorMatrix
+         id="feColorMatrix476-4-7"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix478-8-9" />
+      <feColorMatrix
+         id="feColorMatrix480-5-4"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix482-0-57" />
+      <feColorMatrix
+         id="feColorMatrix484-9-4"
+         values="0.625 0.375 0 0 0 0.7 0.3 0 0 0 0 0.3 0.7 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix486-0-4" />
+      <feColorMatrix
+         id="feColorMatrix488-0-83"
+         values="0.966 0.033 0 0 0 0 0.733 0.266 0 0 0 0.1833 0.816 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0923512"
+     inkscape:cx="561.25984"
+     inkscape:cy="396.85039"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.058823"
+       y="148.67128"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="64.058823"
+         y="153.63428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot66"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion68"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic'"><rect
+           id="rect70"
+           width="305.55322"
+           height="121.7034"
+           x="273.80908"
+           y="121.42075"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic'" /></flowRegion><flowPara
+         id="flowPara72" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.61938"
+       y="63.031139"
+       id="text207"><tspan
+         sodipodi:role="line"
+         id="tspan205"
+         x="109.61938"
+         y="67.400902"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot879"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion881"><rect
+           id="rect883"
+           width="62.14642"
+           height="59.556984"
+           x="514.00269"
+           y="1061.668" /></flowRegion><flowPara
+         id="flowPara885" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="134.96886"
+       y="285.69547"
+       id="text892"><tspan
+         sodipodi:role="line"
+         id="tspan890"
+         x="134.96886"
+         y="290.65848"
+         style="stroke-width:0.26458332" /><tspan
+         sodipodi:role="line"
+         x="134.96886"
+         y="296.83209"
+         style="stroke-width:0.26458332"
+         id="tspan894" /></text>
+    <g
+       id="g1550"
+       transform="translate(7.0224914,-15.243945)">
+      <g
+         transform="matrix(0.69238076,0.76212097,-0.15148551,0.13762337,125.60364,-101.35429)"
+         id="g1481-8"
+         style="stroke:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1350"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1352"><rect
+           id="rect1354"
+           width="52"
+           height="52"
+           x="158"
+           y="374.51968" /></flowRegion><flowPara
+         id="flowPara1356" /></flowRoot>    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.81096,118.37384 c 9.66579,0.0271 17.27266,0.62948 26.54169,2.34349 l -12.9496,33.45986 -0.25739,14.79955 c -3.99483,-0.51969 -6.42376,-1.10634 -13.28935,-1.23786 l 0.0341,-15.23468 z"
+       id="path1248"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 175.35265,120.71733 c 6.00349,1.11172 12.79486,3.01241 18.96595,5.14767 l -22.77845,30.75733 0.1287,14.92824 c -2.96962,-0.99446 -6.04311,-1.91968 -9.52319,-2.57383 l 0.25739,-14.79955 z"
+       id="path1250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.3186,125.865 c 20.80072,8.2238 37.9381,19.77281 47.61596,38.09276 l -46.32904,11.83964 -0.1287,15.18562 c -4.2119,-6.95801 -9.14676,-13.82273 -23.80797,-19.43245 l -0.1287,-14.92824 z"
+       id="path1252"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 241.93456,163.95776 c 1.90548,3.57128 2.60566,6.41937 3.73205,9.52319 l -48.38809,6.94935 c 0.29852,4.96524 -0.0485,9.41403 -0.13294,14.0729 -0.42216,-1.04447 -0.92145,-2.36195 -1.66876,-3.52018 l 0.1287,-15.18562 z"
+       id="path1254"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 245.66661,173.48095 c 1.47394,4.69639 1.89773,9.24277 2.18776,13.77002 h -49.41763 c -0.073,2.74062 -0.54836,5.079 -1.39354,7.04749 0.13673,-4.58386 0.56144,-8.97573 0.23532,-13.86816 z"
+       id="path1256"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 247.85437,187.25097 -0.19304,20.01157 c -0.74114,6.15962 -1.68351,9.17401 -3.28163,13.44828 v -14.28478 l -48.00203,-9.58753 c 1.25541,-2.77654 1.82389,-6.10157 2.05907,-9.58754 z"
+       id="path1258"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 196.37767,196.83851 48.00203,9.58753 v 14.28478 c -2.38311,5.03678 -4.91341,9.63197 -7.63953,13.63968 l 0.0909,-14.83281 -44.13442,-16.01579 c 1.43652,-1.95922 2.91051,-3.8716 3.68097,-6.66339 z"
+       id="path1260"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 236.83112,219.51769 -0.0909,14.83281 c -12.0614,15.81747 -28.80222,25.43202 -48.22938,31.48559 l -0.091,-14.83281 -20.01975,-31.84958 c 8.94027,-2.62301 17.40165,-6.72255 24.29665,-15.6518 z"
+       id="path1262"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 188.41984,251.00328 0.091,14.83281 c -17.45446,4.84601 -36.46319,7.61968 -60.05921,4.27694 l 0.0909,-14.8328 10.10088,-34.03355 c 10.7383,1.43282 20.73354,0.93369 29.75664,-2.09298 z"
+       id="path1264"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.64341,221.24668 -10.10088,34.03355 -0.0909,14.8328 c -10.03113,-1.51004 -20.41514,-4.21992 -31.303589,-8.64488 l 0.268975,-14.38491 25.665684,-29.93151 c 5.08087,2.21338 10.31067,3.23529 15.56076,4.09495 z"
+       id="path1266"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 97.147991,261.46815 C 88.079937,256.94732 61.375346,246.004 51.739583,216.24174 l 0.181998,-14.55981 48.502369,-7.18891 c 3.9624,12.77545 13.13791,17.96817 22.6587,22.65871 l -25.665684,29.93151 z"
+       id="path1268"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.739583,216.24174 c -0.560686,-2.62706 -1.86468,-3.81118 -1.816979,-25.78736 -0.320981,-20.45092 9.954038,-36.03277 22.385708,-46.68238 l 38.125498,22.14739 v 14.55982 c -7.44791,6.42075 -7.93034,9.87747 -10.00986,14.01381 l -48.502369,7.18891 z"
+       id="path1270"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.308312,143.772 c 3.312155,-2.67388 5.834688,-4.72088 9.188356,-6.87018 l 33.487082,25.19562 0.091,14.74181 c -1.4932,0.99821 -3.02672,2.15768 -4.64094,3.63996 v -14.55982 z"
+       id="path1272"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.496668,136.90182 c 6.717559,-4.08509 13.525109,-7.8063 21.951842,-10.80222 l 22.6371,30.81091 -0.182,14.55982 c -4.35331,1.707 -7.52757,3.54502 -10.8289,5.36892 l -0.091,-14.74181 z"
+       id="path1275"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.44851,126.0996 c 1.18996,-0.34042 3.38036,-1.20516 5.79979,-1.88683 l 19.93127,31.51476 0.0909,14.6508 c -1.01504,0.29248 -1.99984,0.56479 -3.36696,1.092 l 0.182,-14.55982 z"
+       id="path1277"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.25778884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 109.2483,124.21277 c 6.16534,-2.00176 12.7228,-3.38683 19.61553,-4.41873 l 9.77962,33.84052 0.0909,14.75317 c -3.27122,0.42788 -6.67313,1.16164 -9.46391,1.9906 l -0.0909,-14.6508 z"
+       id="path1279"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 128.86383,119.79404 c 4.46386,-0.6064 7.99052,-1.0505 13.46782,-1.27398 l 3.22771,34.47751 -0.182,14.7418 c -1.88163,0.10972 -3.33087,0.14299 -6.64296,0.64836 l -0.0909,-14.75317 z"
+       id="path1281"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f14668;fill-opacity:1;stroke:#800000;stroke-width:0.2573835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.33165,118.52006 c 3.05457,-0.11852 4.78734,-0.21262 6.47931,-0.14622 l 0.13144,34.69355 -0.0861,14.67149 c -1.48778,-0.0549 -2.52527,-0.0506 -3.47888,4.2e-4 l 0.18201,-14.74181 z"
+       id="path1283"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#800000;stroke-width:0.25778884;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1285"
+       cx="148.79555"
+       cy="187.53111"
+       rx="49.55407"
+       ry="34.424976" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#800000;stroke-width:0.25778884;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1285-7"
+       cx="148.98143"
+       cy="187.78134"
+       rx="99.039696"
+       ry="69.443825" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.08854,135.39713 6.35,-30.8815 64.29375,-0.13229"
+       id="path1302"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 146.16803,134.72795 145.83404,99.396138 43.221018,99.583225"
+       id="path1304"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="209.36092"
+       y="102.39113"
+       id="text1308"><tspan
+         sodipodi:role="line"
+         id="tspan1306"
+         x="209.36092"
+         y="102.39113"
+         style="font-size:3.52777767px;fill:#008000;stroke-width:0.26458332"><tspan
+   style="font-size:4.58611107px;fill:#ff6600"
+   id="tspan1869">1 -</tspan> HTML5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.894207"
+       y="97.650383"
+       id="text1312"><tspan
+         sodipodi:role="line"
+         id="tspan1310"
+         x="42.894207"
+         y="97.650383"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';fill:#0000ff;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1903">18 -</tspan> Montagem da Web (WASM - Web Assembly)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="172.37604"
+       y="110.73334"
+       id="text1316"><tspan
+         sodipodi:role="line"
+         id="tspan1314"
+         x="172.37604"
+         y="110.73334"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332"><tspan
+   style="font-size:5.64444447px;fill:#008000"
+   id="tspan1365">09/04/2020</tspan>...28/04/2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.831932"
+       y="106.00507"
+       id="text1316-0"><tspan
+         sodipodi:role="line"
+         id="tspan1314-0"
+         x="42.831932"
+         y="106.00507"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">29/12/2021...<tspan
+   style="font-size:5.64444447px;fill:#0000ff"
+   id="tspan1336">04/01/2022</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 175.72744,138.47967 10.67024,-19.26254 72.49584,0.13229"
+       id="path1302-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="243.07132"
+       y="117.36662"
+       id="text1308-3"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3"
+         x="243.07132"
+         y="117.36662"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="font-size:4.58611107px;fill:#ff6600"
+   id="tspan1871">2 -</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium'"
+   id="tspan1923">CSS3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="212.63016"
+       y="123.79919"
+       id="text1316-6"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6"
+         x="212.63016"
+         y="123.79919"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">29/04/2020...19/05/2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="177.26772"
+       y="97.253365"
+       id="text1308-36"><tspan
+         sodipodi:role="line"
+         id="tspan1306-8"
+         x="177.26772"
+         y="97.253365"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.93888903px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium';fill:#008000;stroke-width:0.26458332">INÍCIO DOS ESTUDOS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.71299"
+       y="92.61898"
+       id="text1308-36-2"><tspan
+         sodipodi:role="line"
+         id="tspan1306-8-9"
+         x="42.71299"
+         y="92.61898"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.93888903px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium';fill:#0000ff;stroke-width:0.26458332">FIM DOS ESTUDOS</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 202.52311,151.49788 9.6573,-14.15521 h 69.32084"
+       id="path1302-5-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="258.1041"
+       y="135.47011"
+       id="text1308-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6"
+         x="258.1041"
+         y="135.47011"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1873">3 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1921">JavaScript</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="235.10559"
+       y="141.97951"
+       id="text1316-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8"
+         x="235.10559"
+         y="141.97951"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">20/05/2020...04/08/2020</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 219.56799,173.14384 230.6351,161.9472 h 62.57396"
+       id="path1302-5-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="243.60614"
+       y="160.04187"
+       id="text1308-3-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-8"
+         x="243.60614"
+         y="160.04187"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="font-size:4.58611107px;fill:#ff6600"
+   id="tspan1875">4 -</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium'"
+   id="tspan1919">Gerenciadores de Pacotes</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="246.8134"
+       y="166.49049"
+       id="text1316-6-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8"
+         x="246.8134"
+         y="166.49049"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">05/08/2020...18/08/2020</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 221.67526,182.01403 9.6213,-0.88454 64.55834,0.13229"
+       id="path1302-5-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="250.15559"
+       y="179.20813"
+       id="text1308-3-1-51"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-7"
+         x="250.15559"
+         y="179.20813"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="font-size:4.58611107px;fill:#ff6600"
+   id="tspan1877">5 -</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium'"
+   id="tspan1917">Pré-processadores CSS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="249.55278"
+       y="185.618"
+       id="text1316-6-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-81"
+         x="249.55278"
+         y="185.618"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">19/08/2020...08/09/2020</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 221.35728,194.65355 8.33828,4.67561 66.22219,0.0935"
+       id="path1302-5-4-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="261.0206"
+       y="198.08594"
+       id="text1308-3-1-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-8-3"
+         x="261.0206"
+         y="198.08594"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1879">6 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1927">Frameworks CSS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="249.53149"
+       y="203.85638"
+       id="text1316-6-4-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7"
+         x="249.53149"
+         y="203.85638"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">09/09/2020...06/10/2020</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 217.22275,206.27296 11.95166,10.37631 66.22219,0.0935"
+       id="path1302-5-4-4-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="262.08694"
+       y="215.04791"
+       id="text1308-3-1-5-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-8-3-0"
+         x="262.08694"
+         y="215.04791"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1881">7 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1931">Arquitetura CSS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="249.1039"
+       y="221.17648"
+       id="text1316-6-4-9-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7-6"
+         x="249.1039"
+         y="221.17648"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">07/10/2020...27/10/2020</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 199.59949,225.56435 27.23329,24.41527 66.2222,0.0935"
+       id="path1302-5-4-4-1-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="241.11264"
+       y="248.30074"
+       id="text1308-3-1-5-8-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-8-3-0-7"
+         x="241.11264"
+         y="248.30074"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="font-size:4.58611107px;fill:#ff6600"
+   id="tspan1883">8 -</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium'"
+   id="tspan1935">Ferramentas de compilação</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="246.6687"
+       y="254.50681"
+       id="text1316-6-4-9-2-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7-6-8"
+         x="246.6687"
+         y="254.50681"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">28/10/2020...05/01/2021</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.9727881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 155.40038,239.79765 30.61021,32.90183 64.42017,0.091"
+       id="path1302-5-4-4-1-9-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.804492px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2573835"
+       x="208.0043"
+       y="271.24829"
+       id="text1308-3-1-5-8-6-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-8-3-0-7-1"
+         x="208.0043"
+         y="271.24829"
+         style="font-size:3.4317801px;stroke-width:0.2573835"><tspan
+   style="font-size:4.58611107px;fill:#ff6600"
+   id="tspan1885">9 -</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium'"
+   id="tspan1939">Escolha uma estrutura</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="204.13394"
+       y="277.91507"
+       id="text1316-6-4-9-2-0-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7-6-8-8"
+         x="204.13394"
+         y="277.91507"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">06/01/2021...09/03/2021 </tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.86204,235.91467 -8.94729,53.64051 66.2222,0.0935"
+       id="path1302-5-4-4-1-9-4-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="150.90279"
+       y="287.95871"
+       id="text1308-3-1-5-8-6-0-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-8-3-0-7-1-6"
+         x="150.90279"
+         y="287.95871"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="font-size:4.58611107px;fill:#ff6600"
+   id="tspan1887">10 -</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Medium'"
+   id="tspan1943">CSS em JS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.20279"
+       y="294.56171"
+       id="text1316-6-4-9-2-0-1-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7-6-8-8-1"
+         x="132.20279"
+         y="294.56171"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">10/03/2021...13/04/2021 </tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.443537,215.9198 -40.878005,74.15151 56.579818,0.0935"
+       id="path1302-5-4-4-1-9-4-3-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="51.3335"
+       y="288.04099"
+       id="text1308-3-1-5-8-6-0-0-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-6-8-3-0-7-1-6-5"
+         x="51.3335"
+         y="288.04099"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+           style="fill:#ff6600;font-size:4.58611111px"
+           id="tspan1889">11 -</tspan><tspan
+           style="font-size:4.58611111px"
+           id="tspan1945"> </tspan><tspan
+           style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan1947">Testando seus aplicativos</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.850166"
+       y="295.23737"
+       id="text1316-6-4-9-2-0-1-1-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7-6-8-8-1-2"
+         x="56.850166"
+         y="295.23737"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">14/04/2021...06/07/2021 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.4026957"
+       y="252.30655"
+       id="text1308-3-1-5-8-6-0-0-0-6-1"><tspan
+         sodipodi:role="line"
+         x="1.4026957"
+         y="252.30655"
+         style="font-size:3.52777767px;stroke-width:0.26458332"
+         id="tspan1709"><tspan
+           style="fill:#ff6600;font-size:4.58611111px"
+           id="tspan1891">12 -</tspan><tspan
+           style="font-size:4.58611111px"
+           id="tspan1949"> </tspan><tspan
+           style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan1951">Aplicativos Web progressivos </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1.4026957"
+         y="258.48016"
+         style="font-size:3.52777767px;stroke-width:0.26458332;-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan1711">(PWA - Progressive Web Apps)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.9842079"
+       y="265.71863"
+       id="text1316-6-4-9-2-0-1-1-2-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7-6-8-8-1-2-7"
+         x="1.9842079"
+         y="265.71863"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">07/07/2021...05/10/2021</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 95.447263,152.28899 2.5497497,234.61788 53.294624,234.57907"
+       id="path1302-5-4-4-1-9-4-3-6-8-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.447552"
+       y="226.3792"
+       id="text1308-3-1-5-8-6-0-0-0-6-1-1"><tspan
+         sodipodi:role="line"
+         x="54.453518"
+         y="226.3792"
+         style="font-size:3.52777767px;line-height:0;text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan1662-8"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1893">13 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000"
+   id="tspan1955">Verificação de </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="53.447556"
+         y="232.55281"
+         style="font-size:3.52777767px;line-height:0;text-align:end;text-anchor:end;stroke-width:0.26458332;-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000"
+         id="tspan1717">Tipo (Type Checkers)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="7.091754"
+       y="239.88406"
+       id="text1316-6-4-9-2-0-1-1-2-8-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-8-8-7-6-8-8-1-2-7-6"
+         x="7.091754"
+         y="239.88406"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">06/10/2021...19/10/2021</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.430374,175.9665 -26.153867,84.87008 -56.6972066,0.0935"
+       id="path1302-5-4-4-1-9-4-3-6-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.05789,184.8563 32.0581,-0.13229 67.18175,-42.93913 5.78154,3.6733"
+       id="path1302-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.129717"
+       y="175.95706"
+       id="text1308-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-3"
+         x="1.129717"
+         y="175.95706"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1895">14 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1957">Renderização no lado </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="1.129717"
+         y="182.13068"
+         style="font-size:3.52777767px;stroke-width:0.26458332;-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan1813">do servidor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.1726872"
+       y="189.91792"
+       id="text1316-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-9"
+         x="1.1726872"
+         y="189.91792"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">20/10/2021...16/11/2021</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.3436702,156.08549 58.47165,155.9532 98.899719,132.84546 116.93042,140.40679"
+       id="path1302-5-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.2284079"
+       y="154.48265"
+       id="text1308-3-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-3-3"
+         x="1.2284079"
+         y="154.48265"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1897">15 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1961">Geradores estáticos de sites</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.4584675"
+       y="160.95996"
+       id="text1316-6-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-9-9"
+         x="1.4584675"
+         y="160.95996"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">17/11/2021...23/11/2021</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.0434512,137.14621 57.1279808,-0.13229 39.866807,-12.44369 27.946391,12.98691"
+       id="path1302-5-7-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.92818904"
+       y="135.54338"
+       id="text1308-3-6-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-3-3-0"
+         x="0.92818904"
+         y="135.54338"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1899">16 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1967">Aplicativos de desktop</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.1582487"
+       y="142.02069"
+       id="text1316-6-1-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-9-9-4"
+         x="1.1582487"
+         y="142.02069"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">24/11/2021...14/12/2021</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.3312371,118.70717 57.1279819,-0.13228 67.743011,-8.70192 5.49576,25.52184"
+       id="path1302-5-7-3-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.2159748"
+       y="117.10435"
+       id="text1308-3-6-3-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan1306-3-3-3-0-1"
+         x="8.2159748"
+         y="117.10435"
+         style="font-size:3.52777767px;stroke-width:0.26458332"><tspan
+   style="fill:#ff6600;font-size:4.58611111px"
+   id="tspan1901">17 -</tspan> <tspan
+   style="-inkscape-font-specification:'Yu Gothic Medium';font-family:'Yu Gothic';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1971">Aplicações Móveis</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.4460354"
+       y="123.58167"
+       id="text1316-6-1-7-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan1314-6-9-9-4-7"
+         x="8.4460354"
+         y="123.58167"
+         style="font-size:3.88055563px;fill:#4d4d4d;stroke-width:0.26458332">15/12/2021...28/12/2021</tspan></text>
+  </g>
+</svg>
