@@ -67,6 +67,40 @@ ul {
     }
 }
 
+.breadcrumb.is-small {
+    background-color: white;
+    border-radius: 9px;
+}
+
+.breadcrumb li.is-active a {
+    color: black;
+}
+
+.breadcrumb a:hover, a:hover {
+    color: orange;
+}
+
+.quadradoVermelho {
+    height: 10px;
+    width: 10px;
+    background-color: #f14668;
+}
+
+.quadradoVerde {
+    height: 10px;
+    width: 10px;
+    background-color: #00d1b2;
+}
+
+.textoLegenda {
+    padding-left: 10px;
+}
+
+.tituloLegenda {
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
 footer {
     background-color: black;
     padding-bottom: calc(100vh - 671px);
