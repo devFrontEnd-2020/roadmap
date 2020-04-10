@@ -117,6 +117,20 @@ ul {
     }
 }
 
+a.conteudoAtivo {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:hover.conteudoAtivo {
+    color: teal;
+}
+
+.tabs {
+    margin-left: -40px;
+}
+
 footer {
     background-color: black;
     padding-bottom: calc(100vh - 671px);
