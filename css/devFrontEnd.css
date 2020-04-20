@@ -12,7 +12,7 @@ h1, h2, footer {
 h1 {
     font-weight: 900;
     font-size:xx-large;
-    margin-top: 75px;
+    /*margin-top: 75px;*/
 }
 
 h2 {
